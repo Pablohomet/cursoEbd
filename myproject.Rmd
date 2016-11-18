@@ -9,7 +9,7 @@ output: word_document
 Introduction
 ------------
 
-It is well known that individual well-being can be influenced by climatic conditions. However, en asturias somos muy felices con un tiempo de mierda 11aaa
+It is well known that individual well-being can be influenced by climatic conditions. However, en asturias somos muy felices con un tiempo de mierda pero nos gusta
 
 
 Methods
