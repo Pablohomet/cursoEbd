@@ -9,7 +9,11 @@ output: word_document
 Introduction
 ------------
 
+<<<<<<< HEAD
 It is well known that individual well-being can be influenced by climatic conditions. However, en asturias somos muy felices con un tiempo de mierda pero nos gusta aaaaa
+=======
+It is well known that individual well-being can be influenced by climatic conditions. However, en asturias somos muy felices con un tiempo de mierda 11aaa
+>>>>>>> parent of 170ba2b... cambiamos parrafo
 
 
 Methods
